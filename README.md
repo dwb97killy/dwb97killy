@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dwb97killy
-- 👀 I’m interested in  machine learning and full-stack
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in  machine learning and full-stack related projects
+- 🌱 I’m currently a master student in US
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dwb.killy@gmail.com
 
